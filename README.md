@@ -1,2 +1,2 @@
 # GreedyAIRobot
-creating gym environmeny, applying deep + genetic learning
+creating gym environment, applying deep + genetic learning
